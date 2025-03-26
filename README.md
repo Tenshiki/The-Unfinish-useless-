@@ -9,8 +9,8 @@
 <br>
  
   <p align="center">  
-  <a href="https://telegra.ph/file/1743544c222ffd613c219.jpg">
-    <img alt="prabath-md" height="300" src="https://telegra.ph/file/1743544c222ffd613c219.jpg">
+  <a href="https://ru.pinterest.com/pin/725079608768146511/">
+    <img alt="prabath-md" height="300" src="https://ru.pinterest.com/pin/725079608768146511/">
     
   
   </a>
@@ -38,7 +38,7 @@
 <br>
 <br>
 
-<a href="https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20Join%20Our%20WhatsApp%20Channel-black" alt="🎉 Join Our WhatsApp Channel" width="300"></a>
+<a href=""><img src="https://img.shields.io/badge/%F0%9F%8E%89%20Join%20Our%20WhatsApp%20Channel-black" alt="🎉 Join Our WhatsApp Channel" width="300"></a>
 
 <br>
 
